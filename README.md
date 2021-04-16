@@ -29,6 +29,8 @@
   ## Test Instructions:
   
   npm test
+  ## Demo
+  https://youtu.be/JdRQUr_f6uk. <---- click on the link to watch a short demo on how the application works
 ## Contact Information:
 
 for any clarification or questions, contact me!
