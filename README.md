@@ -12,7 +12,7 @@
 
   ## Install Instruction:
   
-  run <npm i> and <npm i inquirer> to use this application
+  run "<npm i>" and "<npm i inquirer>" to use this application
   ## Usage:
   
   answer the promts
