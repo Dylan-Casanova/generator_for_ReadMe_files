@@ -17,10 +17,10 @@
   
   answer the promts
 
-  ![screenshot](./images.ss1.png)
+  ![screenshot](/images.ss1.png)
 
 
-  ![screenshot](./images.ss2.png)
+  ![screenshot](/images.ss2.png)
   
 
   ## Guidelines for contribution:
